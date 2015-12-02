@@ -1,0 +1,23 @@
+{
+  "name": "literal-kanji",
+  "version": "1.0.0",
+  "description": "Return English words replacing kanji characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "kanji"
+  ],
+  "author": "Nick Doiron <ndoiron@mapmeld.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.2 <5"
+  },
+  "dependencies": {
+    "jisho-module": "^1.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}

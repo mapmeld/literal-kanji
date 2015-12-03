@@ -19,5 +19,16 @@
   },
   "devDependencies": {
     "mocha": "^2.2.5"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapmeld/literal-kanji.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mapmeld/literal-kanji/issues"
+  },
+  "homepage": "https://github.com/mapmeld/literal-kanji#readme"
 }

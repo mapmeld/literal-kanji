@@ -1,4 +1,4 @@
-var jisho = require('jisho-module');
+var jisho = require('jisho');
 
 var literalKanji = function (kanjiPhrase) {
   var output = '';

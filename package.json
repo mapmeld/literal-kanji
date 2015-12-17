@@ -1,6 +1,6 @@
 {
   "name": "literal-kanji",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Return English words replacing kanji characters",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "node": ">=4.2 <5"
   },
   "dependencies": {
-    "jisho-module": "^0.1.2"
+    "jisho": "^0.1.2"
   },
   "devDependencies": {
     "mocha": "^2.2.5"

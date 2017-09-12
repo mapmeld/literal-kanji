@@ -1,5 +1,7 @@
 ## literal-kanji
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mapmeld/literal-kanji.svg)](https://greenkeeper.io/)
+
 A small NodeJS module to convert Japanese kanji to their literal meaning:
 
 ```javascript

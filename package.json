@@ -15,10 +15,10 @@
     "node": ">=4.2 <5"
   },
   "dependencies": {
-    "jisho": "^0.1.2"
+    "jisho": "^1.0.0"
   },
   "devDependencies": {
-    "mocha": "^2.2.5"
+    "mocha": "^3.5.3"
   },
   "directories": {
     "test": "test"
